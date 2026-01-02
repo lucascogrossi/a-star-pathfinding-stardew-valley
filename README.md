@@ -18,19 +18,6 @@ python editor.py  # Edit obstacles and set start/end points
 python main.py    # Run visualization
 ```
 
-## Project Structure
-
-```
-.
-├── main.py              # A* visualization
-├── editor.py            # Map editor
-├── data/
-│   ├── farm.png         # Background image
-│   ├── obstacles.txt    # Obstacle coordinates
-│   └── points.txt       # Start/end points
-└── requirements.txt
-```
-
 ## Usage
 
 ### Editor
